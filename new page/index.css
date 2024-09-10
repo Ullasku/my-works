@@ -1,0 +1,27 @@
+.bgpara{
+
+    background: no-repeat url(bg\ photo.jpeg) center fixed rgb(255, 166, 166);
+    background-size: cover;
+}
+.border{
+    margin-top: 40px;
+    border:solid 4px;
+
+}
+.padding{
+    padding: 50px;
+}
+.fixed{
+
+        background-image: url(bg\ photo.jpeg);
+}
+.margine1{
+    margin: 100px 50px 150px;
+}
+.margin1{
+    margin-bottom: 40px;
+
+}
+.bg{
+    background-color: aquamarine;
+}

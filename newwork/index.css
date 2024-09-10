@@ -1,0 +1,289 @@
+img{
+    width: 100%;
+}
+h1{
+    font-size: 46px;
+    font-weight: 500;
+    
+}
+h2{
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #1eb2a6;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.material-symbols-outlined{
+    font-size: 80px;
+    color: #1eb2a6;
+}
+.bgpara .material-symbols-outlined{
+    font-size: 70PX;
+}
+.headstyle h4{font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto", Arial, sans-serif;
+    margin-bottom: 15px;
+}
+h3{
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+.bgpara{
+    background-image: url(../newwork/image/bg_3.jpg.webp);
+    background-size:cover;
+    background-position: center;
+    margin-top: 10PX;  
+    
+}
+.bgcolor{
+    background-color: rgba(0,0,0,0.5) ;
+    padding-top: 100px;padding-bottom: 100px;
+
+}
+h5{
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 5px;
+}
+a{
+    color: rgba(255, 255, 255, 0.9);
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.our{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 70px;
+    margin-bottom: 5px;
+    color: #1eb2a6;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.heading{
+    text-align: center;
+    font-size: 46px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+.size{
+    font-size: 10px;
+    .aa{
+        color: black;
+    }
+}
+.heading{
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #040404;
+    font-size: 46px;
+    font-weight: 500;
+    padding-bottom: 50p;
+    
+    
+}
+
+.border{
+    border-bottom: 10px;
+    border-width: 5px;
+    
+}
+.iim{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.tx{
+    text-align: center;
+}
+.b1{
+    background-color: #1eb2a6;
+    text-align: center;
+    color: #fff;
+    margin-top: 5px;
+    padding: 5px;
+}
+.aa{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.b2{
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid  #1eb2a6;
+}
+.b3{
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #1eb2a6;
+}
+.heading1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.size{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.we{
+    text-align: center;
+}
+.er{
+    border: #040404;
+    border-bottom: 10px;
+    border-width: 5px;
+}
+.yy{
+    text-align: center;
+    padding: 50px;
+}
+.pp{
+    background-color: #a7d7d3;
+}
+.paddoo{
+    padding-top: 30px;
+}
+.nnn{
+    padding-top:50px;
+    text-align: center;
+}
+.mm{
+    padding-top: 50px;
+}
+.xx{
+    background-color: #ffffff;
+}
+.session{
+    border: 0.5px solid  #7e7c7c;
+    margin-right: 5px;
+    padding-bottom: 20px;
+}
+.circle2{
+    background-image:url(../newwork/image/person_1.jpg.webp);
+background-position: center;
+background-size: cover;
+width: 80px;
+height: 80px;
+border-radius: 50%;
+}
+.gap{
+    margin-right: 10px;
+
+}
+.para{
+    margin-top: 15px;
+}
+.dd{
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.rr{
+   
+    padding: 5px;
+}
+.kk{
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-weight: bold;
+   
+    
+}
+.oo{
+    padding: 80px;
+}
+.vv{
+    padding: 80px;
+}
+.ii{
+    font-size: 50px;
+    font-weight: 600;
+    color: #1eb2a6;
+}
+.q{
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.alg{
+    text-align: center;
+    padding: 100px;
+    padding-top: 5px;
+}
+.pricebord{
+    background: #fff;
+    padding: 50px;
+}
+.cl{
+    color: #1eb2a6;
+}
+.yy{
+    padding-right: 50px;
+}
+.bc{
+    color: #000000;
+}
+.bgclr{
+    background-color: #1eb2a6;
+    color: #fff;
+    font-size: 27px;
+    font-weight: 500px;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.contt{
+    padding-bottom: 10px;
+}
+.mail{
+    font-size: 16px;
+    padding-top: 40px;
+    padding-left:100px;
+}
+.iconx{
+    color: #fff;
+    font-size: 14px;
+}
+.aca{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+    padding-top:50px ;
+}
+.oned{
+    color: #1eb2a6;
+    font-size: 12px;
+    font-weight: 500px;
+}
+.last{
+    padding-top: 50px;
+}
+.arrowbar{
+    font-size: 14px;
+    color: #1eb2a6;
+}
+.link{
+    color: #111111;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto", Arial, sans-serif;
+}
+.na{
+    font-family: "Roboto", Arial, sans-serif;
+    
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a8a8a8;
+}
